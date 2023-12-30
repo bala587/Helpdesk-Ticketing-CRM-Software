@@ -25,7 +25,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/bala587/Helpdesk-Ticketing-System.git
+git clone https://github.com/bala587/Helpdesk-Ticketing-CRM-Software.git
 ```
 
 ### Install packages 
