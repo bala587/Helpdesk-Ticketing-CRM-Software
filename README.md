@@ -9,6 +9,9 @@
 
   Embark on a seamless journey of issue resolution with our state-of-the-art HelpDesk Ticketing System, proudly crafted on the robust Next.js 13 framework. Navigating the delicate balance between simplicity and sophistication, our application redefines the ticketing experience. 🎫 From submitting diverse problem types with a click to tracking real-time updates on your issues, our intuitive interface ensures that both customers and support teams stay effortlessly connected.
 
+### 🎨 Why minimalist UI?
+I've designed helpdesk ticketing software with a minimalist UI to cater to users facing urgent issues. The goal is to simplify their experience, recognizing that individuals often approach the help desk under pressure, ensuring a straightforward resolution process.
+
 ### 🔍 Key Features:
 
 - Dynamic Ticket Creation
